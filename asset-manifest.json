@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/static/css/main.479b1687.css",
+    "main.js": "/static/js/main.f88303d8.js",
+    "static/media/june.gif": "/static/media/june.d0788e3942e1048ad3ed.gif",
+    "static/media/bird.jpg": "/static/media/bird.f7f6403b32ca78ae3e23.jpg",
+    "static/media/big 3rd.png": "/static/media/big 3rd.8fdb503b90319afff43d.png",
+    "static/media/gif.webm": "/static/media/gif.004010f0d89c59106e4f.webm",
+    "static/media/video.jpg": "/static/media/video.5fd04142d7d322486d72.jpg",
+    "static/media/img1.jpg": "/static/media/img1.2fa9001a44da85bdc0bb.jpg",
+    "static/media/Screenshot (88).png": "/static/media/Screenshot (88).45730024e3ade4136ddd.png",
+    "static/media/img3.jpg": "/static/media/img3.ca7add2ab9067126a139.jpg",
+    "static/media/chater.png": "/static/media/chater.1b1706a07afa5e515a91.png",
+    "static/media/monkblr logo.jpg": "/static/media/monkblr logo.ce5535789af5111459bf.jpg",
+    "static/media/img2.jpg": "/static/media/img2.aacbb0bc0bc51c8e2a55.jpg",
+    "static/media/hi.jpg": "/static/media/hi.e36d54126d70604a6b84.jpg",
+    "static/media/yelGif.webp": "/static/media/yelGif.c6c32f65be4c6455cbe1.webp",
+    "static/media/image.webp": "/static/media/image.6a21bf99fbb5bb901031.webp",
+    "index.html": "/index.html",
+    "static/media/gear.svg": "/static/media/gear.942ab870d1696e112c8d633c5051699a.svg",
+    "static/media/chat-quote-fill.svg": "/static/media/chat-quote-fill.f4206ccf52f7479358467ff0750189e6.svg",
+    "static/media/reply.svg": "/static/media/reply.9ba06c7f30b8bb14e75884e09832749b.svg",
+    "static/media/sliders2.svg": "/static/media/sliders2.6427a74c9f6983d066b423fb88565689.svg",
+    "static/media/pencil-fill.svg": "/static/media/pencil-fill.4c640d95a61cb0764a8340cbe3f87cd2.svg",
+    "static/media/repeat.svg": "/static/media/repeat.9fdced3007de7b9fb526cf8fae772284.svg",
+    "static/media/house-door-fill.svg": "/static/media/house-door-fill.833cc237da3686e033e6e572b5f3c58f.svg",
+    "static/media/envelope-fill.svg": "/static/media/envelope-fill.7828ea972566d7acd02102084ef56f46.svg",
+    "static/media/border-width.svg": "/static/media/border-width.55c870595d0fdc308e3ac0a36468e38d.svg",
+    "static/media/list.svg": "/static/media/list.f98b98b4905b36b844a65327ecaadc32.svg",
+    "static/media/search.svg": "/static/media/search.b1f781b99ceaafb9c831949bb54ae3cd.svg",
+    "static/media/lightning-charge-fill.svg": "/static/media/lightning-charge-fill.c2505d41ca8891f386cb5a3210fc9eb2.svg",
+    "static/media/microsoft.svg": "/static/media/microsoft.3e54297e6f9872835d1b1c5a235c3fbc.svg",
+    "static/media/person-fill.svg": "/static/media/person-fill.516b8bd021edff6a59a3672c8c83db18.svg",
+    "main.479b1687.css.map": "/static/css/main.479b1687.css.map",
+    "main.f88303d8.js.map": "/static/js/main.f88303d8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.479b1687.css",
+    "static/js/main.f88303d8.js"
+  ]
+}
