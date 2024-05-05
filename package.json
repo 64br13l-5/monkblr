@@ -28,7 +28,7 @@
   },
   "eslintConfig": {
     "extends": [
-      "react-apps",
+      "react-app",
       "react-app/jest"
     ]
   },
