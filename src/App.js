@@ -1,4 +1,4 @@
-import{BrowserRouter, Routes, Route} from "react-router-dom";
+import{HashRouter, Routes, Route} from "react-router-dom";
 import DataProvider from "./components/context/DataContext";
 import Home from "./components/Home";
 import Sign from "./components/pages/Sign";
@@ -26,7 +26,7 @@ function App() {
   return (
     <div className="App">
   <DataProvider>
-  <BrowserRouter>
+  <HashRouter>
    {/* <Nav/> */}
    <Routes>
 
@@ -59,7 +59,7 @@ function App() {
 
    </Routes>
    {/* <Footer/> */}
-   </BrowserRouter>
+   </HashRouter>
   </DataProvider>
     </div>
   );
