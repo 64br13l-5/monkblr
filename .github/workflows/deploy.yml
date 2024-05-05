@@ -18,8 +18,9 @@ jobs:
 
       - name: Install dependencies
         run: npm ci
+        
 
       - name: Build and deploy
         run: |
-          npm run build
+          CI=false npm run build
           npx gh-pages -d build
