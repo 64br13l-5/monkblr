@@ -1,0 +1,27 @@
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: 20.12.2
+
+      - name: Install dependencies
+        run: npm ci
+        
+
+      - name: Build and deploy
+        run: |
+          CI=false npm run build
+          git config user.name "64br13l-5" && git config user.email "gsm@uchicago.edu"
+          npx gh-pages -d build
