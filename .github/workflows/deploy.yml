@@ -23,4 +23,5 @@ jobs:
       - name: Build and deploy
         run: |
           CI=false npm run build
+          git config user.name "Your username" && git config user.email "your email"
           npx gh-pages -d build
