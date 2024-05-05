@@ -23,5 +23,5 @@ jobs:
       - name: Build and deploy
         run: |
           CI=false npm run build
-          git config user.name "64br13l-5" && git config user.email "gsm@uchicago.edu"
+          git config --global user.name "64br13l-5" && git config --global user.email "gsm@uchicago.edu"
           npx gh-pages -d build
