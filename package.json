@@ -28,7 +28,7 @@
   },
   "eslintConfig": {
     "extends": [
-      "react-app",
+      "react-apps",
       "react-app/jest"
     ]
   },
@@ -44,6 +44,7 @@
       "last 1 safari version"
     ]
   },
+  "homepage": "http://gabrielsmall.tech/monkblr",
   "devDependencies": {
     "gh-pages": "^6.1.1"
   }
